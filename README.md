@@ -1,4 +1,4 @@
-# Flanux API Gateway
+# API Gateway
 
 A comprehensive API Gateway built with Spring Cloud Gateway for managing microservices architecture.
 
